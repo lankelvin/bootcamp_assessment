@@ -10,20 +10,21 @@ When you run the application (figure it out), you will see the relationship betw
 
 # installation & how to run it
 
-Find it
+Figure it out
 
-# Challenge
-
-How to:
+## How to:
 - fork the repository
 - work on the challenges
-- share your repository link with the recruitment team
 
-Here are the challenges:
+## Here are the challenges:
 - Install and run the app
 - Dockerize it (create dockerfile for each API)
 - Install a small version of kubernetes locally (minikube, kind, etc.)
 - Build the manifests to run the 2 APIs on k8s 
 
-Rules:
+## Rules:
 - Change in the source code is possible
+
+## Submission:
+- Share your fork repository link with us via email: submissions@devopsthepracticalway.com with the subject: 
+[Your Name] - Advanced Level Bootcamp Assesment DevOps Challenge
